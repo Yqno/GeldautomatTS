@@ -1,2 +1,3 @@
 # GeldautomatTS
 Typescript Geldautomat
+:)
